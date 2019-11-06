@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories | Ekaterina Sirazitdinova</title>
+    <link>https://katjasrz.github.io/categories/</link>
+      <atom:link href="https://katjasrz.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ekaterina Sirazitdinova 2019</copyright>
+    <image>
+      <url>https://katjasrz.github.io/img/icon-192.png</url>
+      <title>Categories</title>
+      <link>https://katjasrz.github.io/categories/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Ekaterina Sirazitdinova</title>
+    <link>https://katjasrz.github.io/publication/</link>
+      <atom:link href="https://katjasrz.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ekaterina Sirazitdinova 2019</copyright><lastBuildDate>Wed, 23 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://katjasrz.github.io/img/icon-192.png</url>
+      <title>Publications</title>
+      <link>https://katjasrz.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>A Multi-organ Nucleus Segmentation Challenge</title>
+      <link>https://katjasrz.github.io/publication/2019_monuseg/</link>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://katjasrz.github.io/publication/2019_monuseg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting Depth Image Fusion with Variational Message Passing</title>
+      <link>https://katjasrz.github.io/publication/2019_3dv/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://katjasrz.github.io/publication/2019_3dv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Removal of Simulated Biofilm at Different Implant Crown Designs with Interproximal Oral Hygiene Aids: An In Vitro Study</title>
+      <link>https://katjasrz.github.io/publication/2019_tuna/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://katjasrz.github.io/publication/2019_tuna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sewer Discharge Estimation by Stereoscopic Imaging and Synchronized Frame Processing</title>
+      <link>https://katjasrz.github.io/publication/2018_cacaie/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://katjasrz.github.io/publication/2018_cacaie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stereo Vision for Fully Automatic Volumetric Flow Measurement in Urban Drainage Structures</title>
+      <link>https://katjasrz.github.io/publication/2017_spie_omabs/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://katjasrz.github.io/publication/2017_spie_omabs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantitative Light-induced Fluorescence Images and Digital Photographs - Reproducibility of Manually Marked Demineralisations</title>
+      <link>https://katjasrz.github.io/publication/2017_tatano/</link>
+      <pubDate>Wed, 29 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://katjasrz.github.io/publication/2017_tatano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>System Design for 3D Wound Imaging Using Low-Cost Mobile Devices</title>
+      <link>https://katjasrz.github.io/publication/2017_spie_wound/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://katjasrz.github.io/publication/2017_spie_wound/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Efficient Mobile Image-Guided Navigation Through Removal of Outliers</title>
+      <link>https://katjasrz.github.io/publication/2016_eurasip/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://katjasrz.github.io/publication/2016_eurasip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-Rigid Contour-to-Pixel Registration of Photographic and Quantitative Light-Induced Fluorescence Imaging of Decalcified Teeth</title>
+      <link>https://katjasrz.github.io/publication/2016_berkels/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://katjasrz.github.io/publication/2016_berkels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IMAGO: Image-Guided Navigation for Visually Impaired People</title>
+      <link>https://katjasrz.github.io/publication/2015_imago/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://katjasrz.github.io/publication/2015_imago/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

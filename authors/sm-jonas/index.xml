@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SM Jonas | Ekaterina Sirazitdinova</title>
+    <link>https://katjasrz.github.io/authors/sm-jonas/</link>
+      <atom:link href="https://katjasrz.github.io/authors/sm-jonas/index.xml" rel="self" type="application/rss+xml" />
+    <description>SM Jonas</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ekaterina Sirazitdinova 2019</copyright><lastBuildDate>Thu, 01 Dec 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://katjasrz.github.io/img/icon-192.png</url>
+      <title>SM Jonas</title>
+      <link>https://katjasrz.github.io/authors/sm-jonas/</link>
+    </image>
+    
+    <item>
+      <title>Towards Efficient Mobile Image-Guided Navigation Through Removal of Outliers</title>
+      <link>https://katjasrz.github.io/publication/2016_eurasip/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://katjasrz.github.io/publication/2016_eurasip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IMAGO: Image-Guided Navigation for Visually Impaired People</title>
+      <link>https://katjasrz.github.io/publication/2015_imago/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://katjasrz.github.io/publication/2015_imago/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

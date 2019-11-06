@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Registration | Ekaterina Sirazitdinova</title>
+    <link>https://katjasrz.github.io/tags/registration/</link>
+      <atom:link href="https://katjasrz.github.io/tags/registration/index.xml" rel="self" type="application/rss+xml" />
+    <description>Registration</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ekaterina Sirazitdinova 2019</copyright><lastBuildDate>Wed, 29 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://katjasrz.github.io/img/icon-192.png</url>
+      <title>Registration</title>
+      <link>https://katjasrz.github.io/tags/registration/</link>
+    </image>
+    
+    <item>
+      <title>Quantitative Light-induced Fluorescence Images and Digital Photographs - Reproducibility of Manually Marked Demineralisations</title>
+      <link>https://katjasrz.github.io/publication/2017_tatano/</link>
+      <pubDate>Wed, 29 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://katjasrz.github.io/publication/2017_tatano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-Rigid Contour-to-Pixel Registration of Photographic and Quantitative Light-Induced Fluorescence Imaging of Decalcified Teeth</title>
+      <link>https://katjasrz.github.io/publication/2016_berkels/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://katjasrz.github.io/publication/2016_berkels/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

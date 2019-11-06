@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Ekaterina Sirazitdinova</title>
+    <link>https://katjasrz.github.io/tags/</link>
+      <atom:link href="https://katjasrz.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ekaterina Sirazitdinova 2019</copyright><lastBuildDate>Wed, 23 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://katjasrz.github.io/img/icon-192.png</url>
+      <title>Tags</title>
+      <link>https://katjasrz.github.io/tags/</link>
+    </image>
+    
+    <item>
+      <title>Challenge</title>
+      <link>https://katjasrz.github.io/tags/challenge/</link>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://katjasrz.github.io/tags/challenge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://katjasrz.github.io/tags/deep-learning/</link>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://katjasrz.github.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Histopathology</title>
+      <link>https://katjasrz.github.io/tags/histopathology/</link>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://katjasrz.github.io/tags/histopathology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Medical</title>
+      <link>https://katjasrz.github.io/tags/medical/</link>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://katjasrz.github.io/tags/medical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Segmentation</title>
+      <link>https://katjasrz.github.io/tags/segmentation/</link>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://katjasrz.github.io/tags/segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Vision</title>
+      <link>https://katjasrz.github.io/tags/3d-vision/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://katjasrz.github.io/tags/3d-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kinect Fusion</title>
+      <link>https://katjasrz.github.io/tags/kinect-fusion/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://katjasrz.github.io/tags/kinect-fusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RGB-D</title>
+      <link>https://katjasrz.github.io/tags/rgb-d/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://katjasrz.github.io/tags/rgb-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dental</title>
+      <link>https://katjasrz.github.io/tags/dental/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://katjasrz.github.io/tags/dental/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tracking</title>
+      <link>https://katjasrz.github.io/tags/tracking/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://katjasrz.github.io/tags/tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Registration</title>
+      <link>https://katjasrz.github.io/tags/registration/</link>
+      <pubDate>Wed, 29 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://katjasrz.github.io/tags/registration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wound</title>
+      <link>https://katjasrz.github.io/tags/wound/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://katjasrz.github.io/tags/wound/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Navigation</title>
+      <link>https://katjasrz.github.io/tags/navigation/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://katjasrz.github.io/tags/navigation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

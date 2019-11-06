@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P Schwehn | Ekaterina Sirazitdinova</title>
+    <link>https://katjasrz.github.io/authors/p-schwehn/</link>
+      <atom:link href="https://katjasrz.github.io/authors/p-schwehn/index.xml" rel="self" type="application/rss+xml" />
+    <description>P Schwehn</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ekaterina Sirazitdinova 2019</copyright><lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://katjasrz.github.io/img/icon-192.png</url>
+      <title>P Schwehn</title>
+      <link>https://katjasrz.github.io/authors/p-schwehn/</link>
+    </image>
+    
+    <item>
+      <title>Sewer Discharge Estimation by Stereoscopic Imaging and Synchronized Frame Processing</title>
+      <link>https://katjasrz.github.io/publication/2018_cacaie/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://katjasrz.github.io/publication/2018_cacaie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stereo Vision for Fully Automatic Volumetric Flow Measurement in Urban Drainage Structures</title>
+      <link>https://katjasrz.github.io/publication/2017_spie_omabs/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://katjasrz.github.io/publication/2017_spie_omabs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
