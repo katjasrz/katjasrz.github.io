@@ -5,7 +5,7 @@
     <link>https://katjasrz.github.io/authors/</link>
       <atom:link href="https://katjasrz.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ekaterina Sirazitdinova 2019</copyright><lastBuildDate>Wed, 23 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ekaterina Sirazitdinova 2020</copyright><lastBuildDate>Wed, 23 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://katjasrz.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -913,7 +913,7 @@
       <link>https://katjasrz.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://katjasrz.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;Hi! I am Ekaterina (or Katja). I am a research engineer focusing on machine learning and image processing. During my PhD studies I was mainly working on the tasks of computer vision and image-based 3D reconstruction and tracking. For the past several years, healthcare has been my main (though not the only) application area.&lt;/p&gt;
+      <description>&lt;p&gt;Hi! I am Ekaterina (or Katja). I am a research engineer focusing on computer vision and deep learning. During my PhD studies I was mainly working on the tasks of image-based 3D reconstruction and tracking, and afterwards spent some time doing research in deep learning for medical image analysis. Recently I have joined NVIDIA as a data scientist for computer vision and video analytics applications.&lt;/p&gt;
 </description>
     </item>
     
