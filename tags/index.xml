@@ -5,12 +5,52 @@
     <link>https://katjasrz.github.io/tags/</link>
       <atom:link href="https://katjasrz.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ekaterina Sirazitdinova 2020</copyright><lastBuildDate>Wed, 23 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ekaterina Sirazitdinova 2020</copyright><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://katjasrz.github.io/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://katjasrz.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>Clinical Trials</title>
+      <link>https://katjasrz.github.io/tags/clinical-trials/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://katjasrz.github.io/tags/clinical-trials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Medical</title>
+      <link>https://katjasrz.github.io/tags/medical/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://katjasrz.github.io/tags/medical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ocular Redness</title>
+      <link>https://katjasrz.github.io/tags/ocular-redness/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://katjasrz.github.io/tags/ocular-redness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ophthalmology</title>
+      <link>https://katjasrz.github.io/tags/ophthalmology/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://katjasrz.github.io/tags/ophthalmology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Segmentation</title>
+      <link>https://katjasrz.github.io/tags/segmentation/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://katjasrz.github.io/tags/segmentation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Challenge</title>
@@ -33,22 +73,6 @@
       <link>https://katjasrz.github.io/tags/histopathology/</link>
       <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://katjasrz.github.io/tags/histopathology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Medical</title>
-      <link>https://katjasrz.github.io/tags/medical/</link>
-      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://katjasrz.github.io/tags/medical/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Segmentation</title>
-      <link>https://katjasrz.github.io/tags/segmentation/</link>
-      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://katjasrz.github.io/tags/segmentation/</guid>
       <description></description>
     </item>
     

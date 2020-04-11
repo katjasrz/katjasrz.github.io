@@ -5,7 +5,7 @@
     <link>https://katjasrz.github.io/authors/</link>
       <atom:link href="https://katjasrz.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ekaterina Sirazitdinova 2020</copyright><lastBuildDate>Wed, 23 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ekaterina Sirazitdinova 2020</copyright><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://katjasrz.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,8 +15,48 @@
     <item>
       <title>&lt;b&gt;E Sirazitdinova&lt;/b&gt;</title>
       <link>https://katjasrz.github.io/authors/be-sirazitdinova/b/</link>
-      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
       <guid>https://katjasrz.github.io/authors/be-sirazitdinova/b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CJF Bertens</title>
+      <link>https://katjasrz.github.io/authors/cjf-bertens/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://katjasrz.github.io/authors/cjf-bertens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M Gijs</title>
+      <link>https://katjasrz.github.io/authors/m-gijs/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://katjasrz.github.io/authors/m-gijs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RMMA Nuijts</title>
+      <link>https://katjasrz.github.io/authors/rmma-nuijts/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://katjasrz.github.io/authors/rmma-nuijts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TM Deserno</title>
+      <link>https://katjasrz.github.io/authors/tm-deserno/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://katjasrz.github.io/authors/tm-deserno/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TTJM Berendschot</title>
+      <link>https://katjasrz.github.io/authors/ttjm-berendschot/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://katjasrz.github.io/authors/ttjm-berendschot/</guid>
       <description></description>
     </item>
     
@@ -801,14 +841,6 @@
       <link>https://katjasrz.github.io/authors/p-schwehn/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
       <guid>https://katjasrz.github.io/authors/p-schwehn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TM Deserno</title>
-      <link>https://katjasrz.github.io/authors/tm-deserno/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://katjasrz.github.io/authors/tm-deserno/</guid>
       <description></description>
     </item>
     
